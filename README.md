@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on launching an iOS and Android App for Z12Performance
+- 🌱 I’m currently learning Django, Docker, SQL
+- 📫 How to reach me: cian.costelloe@yahoo.ie
+- ⚡ Fun fact: I have just moved to Vancouver recently.
+
+
 <!--
 **ciancostelloe/ciancostelloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
