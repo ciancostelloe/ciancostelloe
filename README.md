@@ -1,11 +1,11 @@
 ### Hi there, I'm Cian 👋
 
-- 🏠 Limerick, Ireland
-- 📍 Vancouver, Canada
-- 🔭 I’m currently working on launching an iOS and Android App for Z12Performance
-- 🌱 I’m currently learning Django, Docker, SQL
-- 📫 How to reach me: cian.costelloe@yahoo.ie
-- ⚡ Fun fact: I play Rugby, run, cycle and ski!
+- 🏠 Limerick, Ireland.
+- 📍 Permanent Resident of Vancouver, BC, Canada.
+- 🔭 I’m currently working on problem solving, a crit race timer and buidling a traffic route LED map of Vancouver.
+- 🌱 I’m currently learning dynamic programming optimisations.
+- 📫 How to reach me: cian.costelloe94@gmail.com
+- ⚡ Fun fact: I play rugby, run, cycle and ski!
 
 
 <!--
